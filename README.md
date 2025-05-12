@@ -26,8 +26,12 @@ This will generate 10 CSV files, each with 1 million simulated universes.
 
 ## Requirements
 
+
 - numpy
 - pandas
+- tqdm
+- matplotlib
+- scipy
 
 ## License
 
